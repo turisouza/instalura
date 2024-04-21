@@ -1,0 +1,100 @@
+{
+  "fotos": [
+    {
+      "id": 1,
+      "usuario": "Turí Souza",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
+      "fotoUsuario": "https://github.com/turisouza.png",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "usuario": "Rafael",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/01.png",
+      "fotoUsuario": "https://img.odcdn.com.br/wp-content/uploads/2021/10/SteveJobsMacbookAir.jpg",
+      "comentario": "Uma das paisagens mais lindas do mundo",
+      "likes": 250
+    },
+    {
+      "id": 3,
+      "usuario": "Fernanda",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/praia-da-vila.png",
+      "fotoUsuario": "https://forbes.com.br/wp-content/uploads/2023/12/mulher-lidiane-jones-bumble.jpg",
+      "comentario": "Praias paradisíacas",
+      "likes": 3.760
+    },
+    {
+      "id": 4,
+      "usuario": "Turí Souza",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
+      "fotoUsuario": "https://github.com/turisouza.png",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "usuario": "Rafael",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/01.png",
+      "fotoUsuario": "https://img.odcdn.com.br/wp-content/uploads/2021/10/SteveJobsMacbookAir.jpg",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "usuario": "Fernanda",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/praia-da-vila.png",
+      "fotoUsuario": "https://forbes.com.br/wp-content/uploads/2023/12/mulher-lidiane-jones-bumble.jpg",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "usuario": "Turí Souza",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
+      "fotoUsuario": "https://github.com/turisouza.png",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "usuario": "Rafael",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/01.png",
+      "fotoUsuario": "https://img.odcdn.com.br/wp-content/uploads/2021/10/SteveJobsMacbookAir.jpg",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 9,
+      "usuario": "Fernanda",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/praia-da-vila.png",
+      "fotoUsuario": "https://forbes.com.br/wp-content/uploads/2023/12/mulher-lidiane-jones-bumble.jpg",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "usuario": "Turí Souza",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
+      "fotoUsuario": "https://github.com/turisouza.png",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 11,
+      "usuario": "Rafael",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/01.png",
+      "fotoUsuario": "https://img.odcdn.com.br/wp-content/uploads/2021/10/SteveJobsMacbookAir.jpg",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    },
+    {
+      "id": 12,
+      "usuario": "Fernanda",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/praia-da-vila.png",
+      "fotoUsuario": "https://forbes.com.br/wp-content/uploads/2023/12/mulher-lidiane-jones-bumble.jpg",
+      "comentario": "Conheça as melhores ondas do Brasil",
+      "likes": 0
+    }
+  ]
+}

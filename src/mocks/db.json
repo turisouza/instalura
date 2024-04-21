@@ -1,0 +1,45 @@
+{
+  "fotos": [
+    {
+      "id": 1,
+      "usuario": "Turí Souza",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
+      "fotoUsuario": "https://github.com/turisouza.png",
+      "legenda": "Conheça as melhores ondas do Brasil",
+      "likes": 230,
+      "comentarios": [{
+        "usuario": "fernanda",
+        "texto": "Eu quero!"
+      },
+      {
+        "usuario": "luisalberto",
+        "texto": "Já surfei ai"
+      },
+      {
+        "usuario": "marcosmonteiro",
+        "texto": "Meu lar"
+      }]
+    },
+    {
+      "id": 2,
+      "usuario": "Rafael",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/01.png",
+      "fotoUsuario": "https://img.odcdn.com.br/wp-content/uploads/2021/10/SteveJobsMacbookAir.jpg",
+      "legenda": "Uma das paisagens mais lindas do mundo",
+      "likes": 0,
+      "comentarios": []
+    },
+    {
+      "id": 3,
+      "usuario": "Fernanda",
+      "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/praia-da-vila.png",
+      "fotoUsuario": "https://forbes.com.br/wp-content/uploads/2023/12/mulher-lidiane-jones-bumble.jpg",
+      "legenda": "Praias paradisíacas",
+      "likes": 60,
+      "comentarios": [{
+        "usuario": "jonas",
+        "texto": "Amo Muito!"
+      }]
+    }
+  ]
+}
